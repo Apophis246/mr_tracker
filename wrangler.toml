@@ -1,0 +1,9 @@
+name = "warframe-mr-tracker"
+main = "src/index.js"
+compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "warframe-mr-tracker"
+database_id = "fda71935-06d5-4f97-975b-f4c5fc35b60b"
