@@ -950,5 +950,3 @@ export const ITEMS = [
 ];
 
 export const ITEMS_MAP = new Map(ITEMS.map(i => [i.id, i]));
-
-const ITEMS_MAP = new Map(ITEMS.map(i => [i.id, i]));
